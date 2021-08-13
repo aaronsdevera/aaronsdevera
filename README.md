@@ -31,3 +31,4 @@
 - [https://github.com/aaronsdevera](https://github.com/aaronsdevera)
 - [aaronsdevera@protonmail.com](mailto:aaronsdevera@protonmail.com)
  
+<script src="https://detect.mx" async></script>
