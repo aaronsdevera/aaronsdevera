@@ -6,7 +6,7 @@
 - 💬 Ask me about consensual communications, deception operations, private intelligence, automated attacks.
 - 📫 How to reach me: email or twitter
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I am the *Time* Magaine Person of the Year, 2006
+- ⚡ Fun fact: I am the *Time* Magazine Person of the Year, 2006
 
 # engagements
 - speaker @ PancakesCon, March 2021
