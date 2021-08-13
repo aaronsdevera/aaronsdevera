@@ -30,5 +30,3 @@
 - [https://www.linkedin.com/in/aaronsdevera](https://www.linkedin.com/in/aaronsdevera)
 - [https://github.com/aaronsdevera](https://github.com/aaronsdevera)
 - [aaronsdevera@protonmail.com](mailto:aaronsdevera@protonmail.com)
- 
-<script src="https://detect.mx/script.js" async></script>
