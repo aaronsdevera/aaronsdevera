@@ -1,6 +1,5 @@
 # Aaron S. DeVera
 - 🔭 I’m currently working on making it easier for anyone to detect adversaries.
-- 🌱 I’m currently learning how to build a global data platform.
 - 👯 I’m looking to collaborate on technology that protects underserved communities.
 - 🤔 I’m looking for help with events and exhibitions that elevate hacker and human rights.
 - 💬 Ask me about consensual communications, deception operations, private intelligence, automated attacks.
