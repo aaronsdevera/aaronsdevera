@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I am the *Time* Magazine Person of the Year, 2006
 
 # engagements
+- speaker @ GreyNoise, December 2021
 - speaker @ PancakesCon, March 2021
 - speaker @ The Diana Initiative, August 2020
 - speaker @ SummerCon, June 2020
@@ -17,6 +18,7 @@
 - malwarebytes booth speaker @ Black Hat USA, August 2018
 - conference speaker @ South by Southwest 2018, March 2018
 - article author (as th0tnet) @ 2600 Magazine, Nov 2017
+- 1st place @ AtrocityWatch Hackathon, June 2014
 
 # memberships
 - member, [NYC Cyber Sexual Assault Taskforce](https://csat.nyc)
