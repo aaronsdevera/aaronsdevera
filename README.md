@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I am the *Time* Magazine Person of the Year, 2006
 
 # engagements
+- speaker @ SkyTalks (DEFCON30), August 2022
 - speaker @ GreyNoise, December 2021
 - speaker @ PancakesCon, March 2021
 - speaker @ The Diana Initiative, August 2020
