@@ -23,7 +23,7 @@
 
 # memberships
 - member, [NYC Cyber Sexual Assault Taskforce](https://csat.nyc)
-- member, [LaBac/cabal](https://labac.dev)
+- member, [cabal](https://cabal.cx)
 - founder, [Backchannel, Inc.](https://backchannel.re)
 
 # hyperlinks
