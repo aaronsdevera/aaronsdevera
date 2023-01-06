@@ -25,6 +25,7 @@
 - member, [NYC Cyber Sexual Assault Taskforce](https://csat.nyc)
 - member, [cabal](https://cabal.cx)
 - founder, [Backchannel, Inc.](https://backchannel.re)
+- ORCiD: 0000-0001-5607-359X
 
 # hyperlinks
 - [https://twitter.com/aaronsdevera](https://twitter.com/aaronsdevera)
