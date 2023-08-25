@@ -5,7 +5,7 @@
 - 💬 Ask me about consensual communications, deception operations, private intelligence, automated attacks.
 - 📫 How to reach me: email or twitter
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I am the *Time* Magazine Person of the Year, 2006
+- I am going to start blogging more! Read it at https://blog.aaronsdevera.com
 
 # engagements
 - speaker @ Hushcon NYC, June 2023
