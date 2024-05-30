@@ -29,13 +29,6 @@
 - founder, [Backchannel, Inc.](https://backchannel.re)
 - ORCiD: 0000-0001-5607-359X
 
-# hyperlinks
-- [https://twitter.com/aaronsdevera](https://twitter.com/aaronsdevera)
-- [https://keybase.io/aaronsdevera](https://keybase.io/aaronsdevera)
-- [https://www.linkedin.com/in/aaronsdevera](https://www.linkedin.com/in/aaronsdevera)
-- [https://github.com/aaronsdevera](https://github.com/aaronsdevera)
-- [aaronsdevera@protonmail.com](mailto:aaronsdevera@protonmail.com)
-
 # best way to reach me:
 - Signal: @nsa.01
 - Email: aaronsdevera@protonmail.com
