@@ -8,6 +8,7 @@
 - I am going to start blogging more! Read it at https://blog.aaronsdevera.com
 
 # engagements
+- curator @ The Net Gala, March 2024
 - speaker @ Hushcon NYC, June 2023
 - speaker @ SkyTalks (DEFCON 30), August 2022
 - speaker @ GreyNoise, December 2021
@@ -34,3 +35,8 @@
 - [https://www.linkedin.com/in/aaronsdevera](https://www.linkedin.com/in/aaronsdevera)
 - [https://github.com/aaronsdevera](https://github.com/aaronsdevera)
 - [aaronsdevera@protonmail.com](mailto:aaronsdevera@protonmail.com)
+
+# best way to reach me:
+- Signal: @nsa.01
+- Email: aaronsdevera@protonmail.com
+- Twitter: @aaronsdevera
